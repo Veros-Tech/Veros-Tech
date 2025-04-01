@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Veros-Tech 😁
+## Bem-vindo(a) ao perfil do Veros-Tech
 
  <div>
    <a href="https://github.com/Veros-Tech">
